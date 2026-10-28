@@ -30,6 +30,13 @@
     revealEls.forEach(function (el) { io.observe(el); });
   }
 
+  /* ---- signature hero motion runs only while the hero is on screen (no work for a layer nobody sees) */
+  if ("IntersectionObserver" in window) {
+    d.querySelectorAll(".sig").forEach(function (el) {
+      new IntersectionObserver(function (es) { el.classList.toggle("is-off", !es[0].isIntersecting); }).observe(el);
+    });
+  }
+
   /* ---- header condenses once the page moves (sentinel, no scroll reads) */
   var hdr = d.querySelector(".hdr"), sentinel = d.querySelector(".hdr-sentinel");
   if (hdr && sentinel && "IntersectionObserver" in window) {
