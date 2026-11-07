@@ -1,0 +1,21 @@
+{
+  "name": "Bethpage Smiles Family Dental",
+  "category": "Dental practice",
+  "schema_type": "Dentist",
+  "address": "Hicksville, New York 11801",
+  "city": "Hicksville",
+  "state": "New York",
+  "zip": "11801",
+  "email": "info@bethpagesmiles.com",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=Bethpage+Smiles+Family+Dental+Hicksville%2C+New+York+11801",
+  "coordinates": {
+    "lat": 40.7763789,
+    "lon": -73.5256522
+  },
+  "checklist": [
+    "Use exactly this name, address and phone on Google, Facebook, Yelp and the website",
+    "Pick the primary category above in Google Business Profile",
+    "Add the hours and service area",
+    "Link the website and add 10+ real photos"
+  ]
+}
