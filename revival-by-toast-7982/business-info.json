@@ -1,0 +1,21 @@
+{
+  "name": "Revival by Toast",
+  "category": "Restaurant",
+  "schema_type": "Restaurant",
+  "address": "Port Jefferson, New York 11777",
+  "city": "Port Jefferson",
+  "state": "New York",
+  "zip": "11777",
+  "email": "info@revivalbytoast.com",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=Revival+by+Toast+Port+Jefferson%2C+New+York+11777",
+  "coordinates": {
+    "lat": 40.9453961,
+    "lon": -73.0675698
+  },
+  "checklist": [
+    "Use exactly this name, address and phone on Google, Facebook, Yelp and the website",
+    "Pick the primary category above in Google Business Profile",
+    "Add the hours and service area",
+    "Link the website and add 10+ real photos"
+  ]
+}
