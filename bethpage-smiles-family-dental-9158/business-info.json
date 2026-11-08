@@ -2,16 +2,28 @@
   "name": "Bethpage Smiles Family Dental",
   "category": "Dental practice",
   "schema_type": "Dentist",
-  "address": "Hicksville, New York 11801",
+  "dentist": "Dr. Krupali Shah, DDS",
+  "address": "120 Bethpage Road, Suite 310, Hicksville, New York 11801",
   "city": "Hicksville",
   "state": "New York",
   "zip": "11801",
+  "phone": "(516) 822-6659",
   "email": "info@bethpagesmiles.com",
-  "google_maps": "https://www.google.com/maps/search/?api=1&query=Bethpage+Smiles+Family+Dental+Hicksville%2C+New+York+11801",
-  "coordinates": {
-    "lat": 40.7763789,
-    "lon": -73.5256522
-  },
+  "languages": [
+    "English",
+    "Hindi",
+    "Gujarati",
+    "Marathi"
+  ],
+  "insurance_in_network": [
+    "Delta Dental",
+    "MetLife",
+    "BlueCross BlueShield",
+    "Anthem",
+    "Ameritas",
+    "and more"
+  ],
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=Bethpage+Smiles+Family+Dental+120+Bethpage+Road+Suite+310+Hicksville+NY+11801",
   "checklist": [
     "Use exactly this name, address and phone on Google, Facebook, Yelp and the website",
     "Pick the primary category above in Google Business Profile",

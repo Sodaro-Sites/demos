@@ -1,17 +1,16 @@
 {
-  "name": "Spycoast",
-  "category": "Bar",
+  "name": "Spycoast Kitchen & Cocktails",
+  "category": "Bar & grill",
   "schema_type": "BarOrPub",
-  "address": "Port Jefferson, New York 11777",
-  "city": "Port Jefferson",
+  "address": "76 West Main Street, Patchogue, New York 11772",
+  "city": "Patchogue",
   "state": "New York",
-  "zip": "11777",
+  "zip": "11772",
+  "phone": "(631) 605-8900",
   "email": "spycoastpj@gmail.com",
-  "google_maps": "https://www.google.com/maps/search/?api=1&query=Spycoast+Port+Jefferson%2C+New+York+11777",
-  "coordinates": {
-    "lat": 40.9455549,
-    "lon": -73.0683937
-  },
+  "instagram": "https://www.instagram.com/spycoast/",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=Spycoast+76+West+Main+Street+Patchogue+NY+11772",
+  "note": "The Port Jefferson location (140 Main St) closed; Ditch took it over in Aug 2025. OpenTable lists Patchogue as permanently closed: confirm before following up.",
   "checklist": [
     "Use exactly this name, address and phone on Google, Facebook, Yelp and the website",
     "Pick the primary category above in Google Business Profile",
