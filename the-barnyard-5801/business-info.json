@@ -1,0 +1,31 @@
+{
+  "name": "The Barnyard",
+  "category": "Restaurant",
+  "schema_type": "Restaurant",
+  "address": "Farmingdale, New York 11735",
+  "city": "Farmingdale",
+  "state": "New York",
+  "zip": "11735",
+  "phone": "+15162495150",
+  "email": "info@thebarnyardstation.com",
+  "service_area": [
+    "Farmingdale, NY"
+  ],
+  "socials": [
+    "https://facebook.com/https://www.facebook.com/thebarnyardstation",
+    "https://instagram.com/https://www.instagram.com/barnyardfarmingdale",
+    "https://yelp.com/biz/the-barnyard-farmingdale",
+    "https://twitter.com/farmbarnyard"
+  ],
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=The+Barnyard+Farmingdale%2C+New+York+11735",
+  "coordinates": {
+    "lat": 40.7330841,
+    "lon": -73.4457654
+  },
+  "checklist": [
+    "Use exactly this name, address and phone on Google, Facebook, Yelp and the website",
+    "Pick the primary category above in Google Business Profile",
+    "Add the hours and service area",
+    "Link the website and add 10+ real photos"
+  ]
+}
