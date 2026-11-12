@@ -1,0 +1,20 @@
+{
+  "name": "JDRH Auto Body & Collision",
+  "category": "Auto repair",
+  "schema_type": "AutoRepair",
+  "address": "Hempstead, New York",
+  "city": "Hempstead",
+  "state": "New York",
+  "email": "jdrhauto@gmail.com",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=JDRH+Auto+Body+%26+Collision+Hempstead%2C+New+York",
+  "coordinates": {
+    "lat": 40.7147675,
+    "lon": -73.7442474
+  },
+  "checklist": [
+    "Use exactly this name, address and phone on Google, Facebook, Yelp and the website",
+    "Pick the primary category above in Google Business Profile",
+    "Add the hours and service area",
+    "Link the website and add 10+ real photos"
+  ]
+}
