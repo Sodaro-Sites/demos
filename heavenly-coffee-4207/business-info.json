@@ -1,0 +1,21 @@
+{
+  "name": "Heavenly Coffee",
+  "category": "Café",
+  "schema_type": "CafeOrCoffeeShop",
+  "address": "East Rockaway, New York 11518",
+  "city": "East Rockaway",
+  "state": "New York",
+  "zip": "11518",
+  "email": "heavenlycoffeeny@gmail.com",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=Heavenly+Coffee+East+Rockaway%2C+New+York+11518",
+  "coordinates": {
+    "lat": 40.6494011,
+    "lon": -73.6663543
+  },
+  "checklist": [
+    "Use exactly this name, address and phone on Google, Facebook, Yelp and the website",
+    "Pick the primary category above in Google Business Profile",
+    "Add the hours and service area",
+    "Link the website and add 10+ real photos"
+  ]
+}
