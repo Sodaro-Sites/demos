@@ -1,0 +1,21 @@
+{
+  "name": "Guinea Pig Mobile Car Wash",
+  "category": "Auto detailing",
+  "schema_type": "AutomotiveBusiness",
+  "address": "Brentwood, New York 11717",
+  "city": "Brentwood",
+  "state": "New York",
+  "zip": "11717",
+  "email": "guineapig2907@gmail.com",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=Guinea+Pig+Mobile+Car+Wash+Brentwood%2C+New+York+11717",
+  "coordinates": {
+    "lat": 40.7619532,
+    "lon": -73.2316391
+  },
+  "checklist": [
+    "Use exactly this name, address and phone on Google, Facebook, Yelp and the website",
+    "Pick the primary category above in Google Business Profile",
+    "Add the hours and service area",
+    "Link the website and add 10+ real photos"
+  ]
+}
