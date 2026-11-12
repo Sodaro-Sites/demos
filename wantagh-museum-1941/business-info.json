@@ -1,0 +1,21 @@
+{
+  "name": "Wantagh Museum",
+  "category": "Local business",
+  "schema_type": "LocalBusiness",
+  "address": "Wantagh, New York 11793",
+  "city": "Wantagh",
+  "state": "New York",
+  "zip": "11793",
+  "email": "wantaghmuseum@gmail.com",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=Wantagh+Museum+Wantagh%2C+New+York+11793",
+  "coordinates": {
+    "lat": 40.6804703,
+    "lon": -73.5103018
+  },
+  "checklist": [
+    "Use exactly this name, address and phone on Google, Facebook, Yelp and the website",
+    "Pick the primary category above in Google Business Profile",
+    "Add the hours and service area",
+    "Link the website and add 10+ real photos"
+  ]
+}
