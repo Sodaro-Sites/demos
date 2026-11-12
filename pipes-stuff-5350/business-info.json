@@ -1,0 +1,24 @@
+{
+  "name": "Pipes & Stuff",
+  "category": "Plumbing",
+  "schema_type": "Plumber",
+  "address": "East Meadow, New York 11554",
+  "city": "East Meadow",
+  "state": "New York",
+  "zip": "11554",
+  "email": "uzipipes123@gmail.com",
+  "socials": [
+    "https://www.instagram.com/pipesandstuff"
+  ],
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=Pipes+%26+Stuff+East+Meadow%2C+New+York+11554",
+  "coordinates": {
+    "lat": 40.7246676,
+    "lon": -73.5477685
+  },
+  "checklist": [
+    "Use exactly this name, address and phone on Google, Facebook, Yelp and the website",
+    "Pick the primary category above in Google Business Profile",
+    "Add the hours and service area",
+    "Link the website and add 10+ real photos"
+  ]
+}
