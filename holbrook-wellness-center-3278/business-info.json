@@ -1,0 +1,21 @@
+{
+  "name": "Holbrook Wellness Center",
+  "category": "Day spa",
+  "schema_type": "DaySpa",
+  "address": "Holbrook, New York 11741",
+  "city": "Holbrook",
+  "state": "New York",
+  "zip": "11741",
+  "email": "info@holbrookwellnesscenter.com",
+  "google_maps": "https://www.google.com/maps/search/?api=1&query=Holbrook+Wellness+Center+Holbrook%2C+New+York+11741",
+  "coordinates": {
+    "lat": 40.8143708,
+    "lon": -73.0848046
+  },
+  "checklist": [
+    "Use exactly this name, address and phone on Google, Facebook, Yelp and the website",
+    "Pick the primary category above in Google Business Profile",
+    "Add the hours and service area",
+    "Link the website and add 10+ real photos"
+  ]
+}
