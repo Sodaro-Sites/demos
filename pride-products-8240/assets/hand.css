@@ -98,3 +98,5 @@ textarea.input{min-height:140px;resize:vertical}
 @media (max-width:520px){.two{grid-template-columns:1fr}.hd .btn--sm{display:none}.row .btn{flex:1 1 100%}.card{padding:22px}}
 @media (prefers-reduced-motion:reduce){*{transition:none!important;scroll-behavior:auto!important}}
 .brand{min-height:44px}.facts a,.ft a{display:inline-block;padding:11px 0}
+[hidden]{display:none!important}
+.done,#book,#message,#find{scroll-margin-top:90px}
