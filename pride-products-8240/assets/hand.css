@@ -100,3 +100,4 @@ textarea.input{min-height:140px;resize:vertical}
 .brand{min-height:44px}.facts a,.ft a{display:inline-block;padding:11px 0}
 [hidden]{display:none!important}
 .done,#book,#message,#find{scroll-margin-top:90px}
+.bar--one{grid-template-columns:1fr}

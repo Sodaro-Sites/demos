@@ -107,3 +107,4 @@ textarea.input{min-height:110px;resize:vertical}
 .bar{grid-template-columns:1fr 2.2fr}.bar a{font-size:14px;letter-spacing:.03em;white-space:nowrap}
 [hidden]{display:none!important}.panel svg{width:18px;height:18px;flex:none;vertical-align:-3px}.form-nav .btn{padding:0 20px}
 .done,#book,#message,#find{scroll-margin-top:90px}
+.bar--one{grid-template-columns:1fr}
